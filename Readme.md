@@ -20,4 +20,5 @@
 3. Гугл-файл локальной сети: https://drive.google.com/file/d/1503dD4KMHKREik0dci7k07_1YNzXvqJw/view?usp=sharing
 
 ## ✅ Экзаменационный билет №30
-1. Ответ на билет:
+1. Ответ на билет: https://github.com/stankin/inet-2022/wiki/exam30
+2. Ссылка на сравнение версий: https://github.com/stankin/inet-2022/wiki/exam30/_compare/1e8f9b54e788e07cdda9c65a01aaed81ba2fe8c8...d9d3692409b075d7d50633cfb3041d89099d36d5
