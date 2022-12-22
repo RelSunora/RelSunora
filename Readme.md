@@ -16,7 +16,8 @@
 
 ## ✅ Лабораторная работа № 3
 1. Создание Локальной Сети передачи данных в среде Cisco Packet Tracer
-2. Ссылка на отчет: 
+2. Ссылка на отчет: https://drive.google.com/file/d/1ZkWs64Nz8xCM7f9XljtdX67nVxK9ZOQv/view?usp=sharing
+3. Гугл-файл локальной сети: https://drive.google.com/file/d/1503dD4KMHKREik0dci7k07_1YNzXvqJw/view?usp=sharing
 
 ## ✅ Экзаменационный билет №30
 1. Ответ на билет:
